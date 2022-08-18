@@ -1,10 +1,17 @@
 Hello 
 i am Vikas Barolia
+<<<<<<< HEAD
 vikas
 barolia
 <<<<<<< HEAD
 hello edit more lines
 =======
+=======
+Vikas
+Barolia
+
+
+>>>>>>> rohit
 
 hello rebase
 >>>>>>> rebaseB
